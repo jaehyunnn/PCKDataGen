@@ -1,2 +1,2 @@
-# PCKDataGen
-Test data annotation for compute PCK
+# Test data generation
+for compute PCK (Percentage of Correct Keypoint)
